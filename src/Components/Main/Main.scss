@@ -1,0 +1,137 @@
+
+.gender__list{
+    display: inline;
+}
+
+.kinds__nav{
+    background-color:#F9F9F9;
+    list-style: none;
+    margin-bottom: 70px;
+}
+.kinds__list{
+    display: inline;
+    margin-left: 80px;
+}
+.kinds__link{
+    text-decoration: none;
+}
+.possibilities{
+    display: flex;
+}
+.kinds__link__alpha{
+    text-decoration: none;
+    color: red;
+}
+.sale-img{
+    height: 269px;
+    width: 700px;
+}
+.who{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.kinds{
+    margin-top: 40px;
+}
+.sale{
+    margin-bottom: 140px;
+    max-height:200px ;
+    display: flex;
+    justify-content: space-around;
+}
+.sale-card{
+    height: 200px;
+}
+.sale-backgroud{
+    background-color: black;
+}
+.sale-title{
+    color: white;
+}
+.h2{
+    align-items: center;
+}
+.sale-backgroud{
+    margin-top: -5px;
+    text-align: center;
+}
+.h2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.position-card{
+    max-width: 330px;
+}
+.image{
+    background: #F9F9F9;
+
+}
+.brand{
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.position{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.ad{
+    margin: 80px 0 40px 0 ;
+    display: flex;
+    flex-direction:row ;
+    justify-content: center;
+}
+.ad-info{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.ad-title{
+    margin-bottom: 20px;
+}
+.ad-text{
+    width: 900px;
+    margin-bottom: 80px;
+}
+.ad-img{
+    width: 1500px;
+}
+.name-title{
+    margin-bottom: 20px;
+}
+.blog{
+    display: flex;
+    flex-direction: row;
+}
+.blog-info{
+    max-width: 700px;
+}
+.blogs{
+    margin-left: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.blog__title{
+    margin-left: 60px;
+}
+.transition{
+    padding-top: 40px;
+}
+.modal{
+    position: fixed;
+    width: 1000px;
+    height: 800px;
+    top: 0;
+    left: 0;
+    background-color: rgb(128, 128, 128);
+    .content-modal{
+        background-color: rgb(98, 95, 95);
+        width: 800px;
+        height: 800px;
+    }
+}

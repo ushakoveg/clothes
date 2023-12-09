@@ -1,0 +1,42 @@
+.function{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+}
+.header__function{
+    display: flex;
+    flex-direction: row;
+}
+.nav{
+    list-style: none;
+}
+.list{
+    display: inline;
+    margin-left: 20px;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+.header__container{
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+}
+.function__text{
+    color: white;
+}
+.text{
+    color: white;
+    margin-right: 40px;
+}
+.function__img{
+   height: 20%;
+}
+.place{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+}
