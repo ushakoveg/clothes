@@ -103,20 +103,34 @@
 .name-title{
     margin-bottom: 20px;
 }
+.blog-position{
+    display: flex;
+    justify-content: center;
+}
 .blog{
+
+    margin-top: 70px;
     display: flex;
     flex-direction: row;
 }
+.blogs__link{
+    color: white;
+}
 .blog-info{
+    background-color: black;
     max-width: 700px;
 }
 .blogs{
-    margin-left: 60px;
+    margin-top: 30px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
 }
+.blogs__title{
+    color: white;
+}
 .blog__title{
+    color: white;
     margin-left: 60px;
 }
 .transition{
@@ -134,4 +148,13 @@
         width: 800px;
         height: 800px;
     }
+}
+.blog__text{
+    color: white;
+}
+.blog__title{
+    color: white;
+    margin-top: 60px;
+    font-weight: bold;
+    margin-bottom: 60px;
 }

@@ -1,0 +1,31 @@
+ [
+ {
+        "id": 1,
+        "image": "position1.png",
+        "title": "LIB TECH",
+        "text":"Мужской Сноуборд",
+        "cost": 17932
+    },
+    {
+        "id": 2,
+        "image": "position1.png",
+        "title": "LIB TECH",
+        "text":"Мужской Сноуборд",
+        "cost": 17932
+    },
+    {
+        "id": 3,
+        "image": "position1.png",
+        "title": "LIB TECH",
+        "text":"Мужской Сноуборд",
+        "cost": 17932
+    },
+    {
+        "id": 4,
+        "image": "position1.png",
+        "title": "LIB TECH",
+        "text":"Мужской Сноуборд",
+        "cost": 17932
+    }
+  
+]
